@@ -258,6 +258,12 @@ img {
   background-color: #ffffff;
 }
 /*--------------------------section 4 portfolio----------------*/
+.list-avatar {
+  row-gap: 48px;
+}
+.portfolio-container {
+  border-top: none;
+}
 .portfolio-list {
   margin: 0;
   padding: 0;
@@ -307,6 +313,13 @@ img {
 /*-------------------------------footer----------*/
 .footer-logo .logo-part {
   color: #f4f4fd;
+  display: inline-block;
+  margin-bottom: 16px;
+}
+.footer-container {
+  display: flex;
+  flex-direction: column;
+  padding: 100px 0;
 }
 .footer-text {
   font-weight: 400;
@@ -314,6 +327,8 @@ img {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #f4f4fd;
+
+  max-width: 264px;
 }
 .pege-footer {
   background-color: #2e2f42;
