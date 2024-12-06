@@ -324,7 +324,6 @@ img {
 
 .footer-container {
   display: flex;
-  flex-direction: column;
 }
 .logo-part {
   color: #f4f4fd;
@@ -342,4 +341,5 @@ img {
 .pege-footer {
   background-color: #2e2f42;
   padding: 100px 0;
+  display: block;
 }
