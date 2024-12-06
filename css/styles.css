@@ -321,13 +321,13 @@ img {
   text-transform: uppercase;
   color: #4d5ae5;
 }
-.logo-part {
-  color: #f4f4fd;
-}
 
 .footer-container {
   display: flex;
   flex-direction: column;
+}
+.logo-part {
+  color: #f4f4fd;
 }
 
 .footer-text {
