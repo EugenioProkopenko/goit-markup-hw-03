@@ -322,9 +322,6 @@ img {
   color: #4d5ae5;
 }
 
-.footer-container {
-  display: flex;
-}
 .logo-part {
   color: #f4f4fd;
 }
@@ -335,7 +332,6 @@ img {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #f4f4fd;
-
   max-width: 264px;
 }
 .pege-footer {
