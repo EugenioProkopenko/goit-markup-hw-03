@@ -309,7 +309,7 @@ img {
   color: #434455;
 }
 /*-------------------------------footer----------*/
-.footer-logo .logo-part {
+.footer-logo {
   color: #f4f4fd;
   display: inline-block;
   margin-bottom: 16px;
@@ -317,7 +317,6 @@ img {
 .footer-container {
   display: flex;
   flex-direction: column;
-  padding: 100px 0;
 }
 .footer-text {
   font-weight: 400;
@@ -330,4 +329,5 @@ img {
 }
 .pege-footer {
   background-color: #2e2f42;
+  padding: 100px 0;
 }
